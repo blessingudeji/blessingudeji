@@ -1,5 +1,5 @@
 # Hi, I'm Blessing! 👋
-I am an aspiring Front End developer
+I am a Front End developer
 
 
 ## 🔗 Links

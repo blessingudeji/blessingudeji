@@ -10,7 +10,7 @@ I am a Front End developer
 ## Other Common Github Profile Sections
 
 
-🧠 I'm currently learning HTML, CSS, JAVASCRIPT, REACT.JS
+🧠 I'm currently learning JAVASCRIPT, REACT.JS
 
 👯‍♀️ I'm looking to collaborate on  Front end related jobs
 
